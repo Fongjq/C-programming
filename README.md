@@ -1,4 +1,4 @@
-# C-programming (Choose the middle number form the user input)
+# C-programming (Choose the middle number from the user input)
 
 #include <stdio.h>
 #include <stdlib.h>
